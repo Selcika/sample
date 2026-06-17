@@ -1,12 +1,6 @@
-        sample
+sample
 
 selcika
 
 bigboon
 
-<<<<<<< HEAD
-interview
-=======
-
-asdas
->>>>>>> e8a18edb35022dd3dea8a3e1b968fb8d57271c97
